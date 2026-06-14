@@ -2,6 +2,4 @@ streamlit
 pandas
 python-docx
 faster-whisper
-soundfile
-librosa
 openpyxl
