@@ -1,4 +1,4 @@
-from docx import Document
+import Document
 from faster_whisper import WhisperModel
 import os
 import librosa
