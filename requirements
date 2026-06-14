@@ -1,0 +1,9 @@
+streamlit
+pandas
+python-docx
+faster-whisper
+pyannote.audio
+torch
+torchaudio
+openpyxl
+pydub
