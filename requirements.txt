@@ -6,4 +6,4 @@ pyannote.audio
 torch
 torchaudio
 openpyxl
-pydub
+ffmpeg-python
