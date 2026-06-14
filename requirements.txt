@@ -4,6 +4,4 @@ python-docx
 faster-whisper
 pyannote.audio
 torch
-torchaudio
 openpyxl
-librosa
